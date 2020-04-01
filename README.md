@@ -8,3 +8,4 @@ This works for malware related to any of the following keywords:<br>
 3. PCastle
 4. Mysa
 5. SDNS
+6. Powershell bypass -e
